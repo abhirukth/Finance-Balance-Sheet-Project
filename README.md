@@ -1,2 +1,2 @@
 # Finance-Balance-Sheet-Project
-DBMS software that generated balance sheet table from given input
+DBMS (Data Base Management System) software that generated balance sheet table from given input.
